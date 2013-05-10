@@ -5,7 +5,6 @@
 	<artifactId>changeloger</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<build>
-		<sourceDirectory>src</sourceDirectory>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
@@ -29,4 +28,12 @@
 		<url>https://github.com/tomascejka/jenkins-changeloger/issues</url>
 		<system>Github issues</system>
 	</issueManagement>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.11</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
 </project>
