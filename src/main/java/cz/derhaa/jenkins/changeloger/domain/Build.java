@@ -1,4 +1,4 @@
-package cz.derhaa.jenkins.changeloger.build;
+package cz.derhaa.jenkins.changeloger.domain;
 
 import java.util.Date;
 

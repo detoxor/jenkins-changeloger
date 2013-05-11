@@ -1,7 +1,7 @@
 /**
  * 
  */
-package cz.derhaa.jenkins.changeloger.parser;
+package cz.derhaa.jenkins.changeloger.domain;
 
 
 /**

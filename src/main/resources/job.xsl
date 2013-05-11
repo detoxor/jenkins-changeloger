@@ -4,7 +4,7 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<title>Test</title>
+				<title>Neco</title>
 				<style type="text/css">
 *{padding:0;margin:0; font-family:Verdana; }
 body {margin:0 auto; padding:5px; }
