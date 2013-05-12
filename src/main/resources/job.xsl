@@ -6,13 +6,13 @@
 			<head>
 				<title>Neco</title>
 				<style type="text/css">
-*{padding:0;margin:0; font-family:Verdana; }
-body {margin:0 auto; padding:5px; }
-h2, h4 {padding: 5px; background-color: #e1efef;}
-p {font-size:12px; padding:2px 0px;}
-.item {border-bottom:1px solid #ccc; padding:5px;}
-.item p {margin:5px 0px; font-size:11px;}
-.header{ padding:5px; }
+					*{padding:0;margin:0; font-family:Verdana; }
+					body {margin:0 auto; padding:5px; }
+					h2, h4 {padding: 5px; background-color: #e1efef;}
+					p {font-size:12px; padding:2px 0px;}
+					.item {border-bottom:1px solid #ccc; padding:5px;}
+					.item p {margin:5px 0px; font-size:11px;}
+					.header{ padding:5px; }
 				</style>
 			</head>
 			<body>
