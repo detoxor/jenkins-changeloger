@@ -1,6 +1,3 @@
-/**
- * 
- */
 package cz.derhaa.jenkins.changeloger.xml;
 
 /**
