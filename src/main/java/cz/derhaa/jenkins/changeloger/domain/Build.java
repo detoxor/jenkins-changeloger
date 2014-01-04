@@ -60,6 +60,7 @@ public class Build {
 
 	@Override
 	public String toString() {
+		stringBuilder.setLength(0);
 		stringBuilder.append("Jenkins Build:").append("\n");
 		stringBuilder.append("Name: ").append(name).append("\n");
 		stringBuilder.append("WebUrl: ").append(webUrl).append("\n");
