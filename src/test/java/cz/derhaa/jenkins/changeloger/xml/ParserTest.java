@@ -11,7 +11,7 @@ import cz.derhaa.jenkins.changeloger.domain.Build;
 import cz.derhaa.jenkins.changeloger.domain.Item;
 
 /**
- * @author derhaa
+ * @author tomas.cejka
  *
  */
 public class ParserTest {
