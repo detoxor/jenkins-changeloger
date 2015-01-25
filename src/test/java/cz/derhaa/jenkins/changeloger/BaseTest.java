@@ -2,7 +2,7 @@
 package cz.derhaa.jenkins.changeloger;
 
 /**
- * @author derhaa
+ * @author tomas.cejka
  *
  */
 public class BaseTest {
