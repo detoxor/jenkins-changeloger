@@ -9,7 +9,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * @author derhaa
+ * @author tomas.cejka
  *
  */
 public class StylizerTest {
